@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayesh!
-- 👀 I’m a ML Researcher, Engineer and a blogger.
+- 👨‍🔬 I’m a ML Researcher, Engineer and a blogger.
 - 🌱 I’m currently working on <a href = "https://github.com/MayeshMohapatra/CNNs-from-scratch"> CNNs-from-scratch </a>
 - 🌏 I live in Bangalore, India 
 - ✍️ I write @ <a href "http://www.mayesh.tech"> mayesh.tech </a>
